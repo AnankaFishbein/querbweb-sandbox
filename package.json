@@ -18,7 +18,7 @@
     "font-awesome-loader": "^1.0.2",
     "node-sass": "^4.13.1",
     "nodemon": "1.18.4",
-    "resolve-url-loader": "^3.1.1",
+    "resolve-url-loader": "^5.0.0",
     "sass-loader": "^8.0.2",
     "scss-loader": "0.0.1",
     "style-loader": "^1.1.3",
